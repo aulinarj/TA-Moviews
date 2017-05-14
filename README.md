@@ -49,3 +49,13 @@ adalah Film yang sedang tanyang di bioskop, Film yang akan tayang, serta Top Rat
 <br>
 
 ### Screenshoot Aplikasi
+##### Icon Aplikasi
+[![icon.png](https://s12.postimg.org/cc1z50ynx/icon.png)](https://postimg.org/image/6nvoe4ubd/)
+##### Tampilan awal aplikasi
+[![Screenshot_2017_5_14_16_54_15.png](https://s22.postimg.org/qrah31omp/Screenshot_2017_5_14_16_54_15.png)
+##### Navigation Drawer
+[![Screenshot_2017_5_14_16_56_24.png](https://s18.postimg.org/lzl77bsvt/Screenshot_2017_5_14_16_56_24.png)](https://postimg.org/image/6e3vndgxh/)
+##### Cooming Soon List
+[![Screenshot_2017_5_14_16_56_28.png](https://s18.postimg.org/6udmn51g9/Screenshot_2017_5_14_16_56_28.png)](https://postimg.org/image/x2orciljp/)
+##### Top Rate List
+[![Screenshot_2017_5_14_16_56_33.png](https://s10.postimg.org/az8waekgp/Screenshot_2017_5_14_16_56_33.png)](https://postimg.org/image/ceagz4ljp/)
