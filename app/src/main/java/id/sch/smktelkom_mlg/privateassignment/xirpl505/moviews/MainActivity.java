@@ -86,13 +86,13 @@ public class MainActivity extends AppCompatActivity
 
         if (id == R.id.nav_home) {
             fragment = new UpdateFragment();
-            setTitle("Now Playing");
+            setTitle("Playing Now");
         } else if (id == R.id.nav_camera) {
             fragment = new ComingSoonFragment();
-            setTitle("Coming Soon Movies");
+            setTitle("Coming Soon ");
         } else if (id == R.id.nav_gallery) {
             fragment = new TopRateFragment();
-            setTitle("Top Rate Movies");
+            setTitle("Top Rate");
 
         }
 
