@@ -30,6 +30,11 @@
 
 <br>
 
+### Local Data Base
+<br>
+<p> SQLite Dasar </p>
+<br>
+
 ### Deskripsi Aplikasi
 
 <br>
